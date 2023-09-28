@@ -45,7 +45,7 @@ k9       Healthy         0.614285714286
 xx4      Healthy         0.56
 ```
 
-If you use this software package, please cite our paper:
+If you use this method, please cite our paper:
 ```
 @article{yang2020platform,
   title={Platform-independent approach for cancer detection from gene expression profiles of peripheral blood cells},
