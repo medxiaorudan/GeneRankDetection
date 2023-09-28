@@ -44,3 +44,17 @@ p0       Healthy         0.515714285714
 k9       Healthy         0.614285714286
 xx4      Healthy         0.56
 ```
+
+If you use this software package, please cite our paper:
+```
+@article{yang2020platform,
+  title={Platform-independent approach for cancer detection from gene expression profiles of peripheral blood cells},
+  author={Yang, Yadong and Zhang, Tao and Xiao, Rudan and Hao, Xiaopeng and Zhang, Huiqiang and Qu, Hongzhu and Xie, Bingbing and Wang, Tao and Fang, Xiangdong},
+  journal={Briefings in bioinformatics},
+  volume={21},
+  number={3},
+  pages={1006--1015},
+  year={2020},
+  publisher={Oxford University Press}
+}
+```
