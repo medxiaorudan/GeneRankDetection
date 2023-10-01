@@ -1,4 +1,7 @@
 # GeneRankDetection
+<a href="https://academic.oup.com/bib/article/21/3/1006/5382262?login=false"><img src="https://img.shields.io/badge/academic.oup-1006/5382262-%23B31B1B"></a>
+</a>
+<br>
 
 GeneRankDetection is a tool used for the early detection of breast cancer based on blood transcriptome, with the capability to integrate multiple batches of gene expression data across multiple platforms.
 
